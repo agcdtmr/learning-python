@@ -6,6 +6,7 @@
 - [ ] [Learning Python in Four Weeks: A Roadmap](https://www.kdnuggets.com/2023/02/learning-python-four-weeks-roadmap.html)
 - [ ] [Python Roadmap for Aspiring Backend Developers](https://www.linkedin.com/pulse/python-roadmap-aspiring-backend-developers-elshad-karimov/)
 - [ ] [The 2023 Python Programmer RoadMap](https://medium.com/javarevisited/the-2022-python-programmer-roadmap-bafb365071a3)
+- [ ] [Automate with Python](https://www.linkedin.com/learning/using-python-for-automation/automate-everything-with-python?u=2080948)
 
 
 # Steps taken:
