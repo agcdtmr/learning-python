@@ -12,6 +12,6 @@ Click the green button `< > Code` at the top-right of this page. Then, click `Do
 - Code: GNU-GPL v.3
 - Narrative: CC BY-NC-SA
 
-## Book
+## Resources
 
 - Enhance your coding skills with the [book](https://www.learnpythonwithjupyter.com/assets/book/learn_python_with_jupyter.pdf)
