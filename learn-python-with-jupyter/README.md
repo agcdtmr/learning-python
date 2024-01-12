@@ -14,4 +14,4 @@ Click the green button `< > Code` at the top-right of this page. Then, click `Do
 
 ## Book
 
-- Enhance your coding skills with the (book)[https://www.learnpythonwithjupyter.com/assets/book/learn_python_with_jupyter.pdf]
+- Enhance your coding skills with the [book](https://www.learnpythonwithjupyter.com/assets/book/learn_python_with_jupyter.pdf)
