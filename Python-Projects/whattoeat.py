@@ -23,7 +23,7 @@ ulam = [
   "sushi burrito",
   "menudo",
   "pansit",
-  "chicken, ketchup manis, asin, oyster sauce"
+  "chicken, ketchup manis, ketchup asin, oyster sauce"
 ]
 
 # random.randint(1, 5) --> random number between 1 and 5
