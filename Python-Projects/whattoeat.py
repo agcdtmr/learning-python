@@ -1,5 +1,5 @@
 
-# Help me select who to contact
+# Help me select what to eat
 
 
 import random
